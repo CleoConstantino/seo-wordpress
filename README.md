@@ -21,7 +21,7 @@ Ir em 'Focus keyword' e digitar a palavra-chave que pretende ranquear. Ranquear 
 
 **Dicas:** 
  - deve conter links que direcionam para outros sites que tem haver com o assunto do post;
- - O ideal é que no começo da url apareça a palavra-chave (a url não precisa ser igual ao titulo do pos);
+ - O ideal é que no começo da url apareça a palavra-chave (a url não precisa ser igual ao titulo do post);
  - Ranquear palavras chaves diferentes para cada post;
  - Os subtítulos tem um peso benéfico para o ranqueamento dos buscadores, dessa forma é interessante colocar a palavra chave no subtítulo também;
  - AS fotos devem conter as palavras chaves (Alt atribute);
