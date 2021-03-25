@@ -32,7 +32,7 @@ Ir em 'Focus keyword' e digitar a palavra-chave que pretende ranquear. Ranquear 
 **Evitar publicação duplicada:** 
 Detalhes escondidos: categoria, data, home, página do autor, tags (se a publicação não estiver categorizada ele pode aparecer nesses 5 links, ou seja, a indexação vai duplicar o conteúdo, podendo ser penalizado).
 Ir em Menu > SEO > aba Recursos > habilitar as configurações avançadas > Salvas as alterações.
-Vai abrir novos submenus abaixo do SEO, clicar em Títulos & Metadados > aba Taxonomias (são links alternativos, que vai indexar os links) > escolher as opções que devem ser indexadas. Ir na aba Arquivo > e fazer o mesmo procedimento.
+Vai abrir novos submenus abaixo do SEO, clicar em 'Aparência na Pesquisa' > aba Taxonomias (são links alternativos, que vai indexar os links) > escolher as opções que devem ser indexadas. Ir na aba Arquivo > e fazer o mesmo procedimento.
 
 **Páginações:** evitar indexar as paginações dos conteúdo. Ir em Menu > SEO > Títulos e Metadados > aba Outros desabilitar a indexação de páginas e arquivos.
 
