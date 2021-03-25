@@ -9,7 +9,7 @@
 
 ## SEO para imagens
 
- - Renomear as imagens pois o nome do arquivo é importante para a indexação no Google;
+ - Renomear as imagens pois o nome do arquivo é importante para a indexação no Google (usar i hífen como separador de palavras);
  - Ao inserir a imagem deve colocar o titulo, a legenda, texto alternativo e a descrição tudo igual, pois dependendo da template ele vai usar campos diferentes para a indexação.
  - Sempre usar imagens no posts e se for um infográfico é melhor ainda.
 
